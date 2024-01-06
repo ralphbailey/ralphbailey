@@ -3,7 +3,7 @@
 <h2>My Projects</h2>
 
 - <b> Azure Projects</b>
-  - [Azure SOC](www.github.com/ralphbailey/Azure-SOC)
+  - [Creating a Live SOC / Honeynet in Azure](www.github.com/ralphbailey/Azure-SOC)
 
 
 <h2>Connect with me:</h2>
