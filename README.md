@@ -1,8 +1,6 @@
 <h1>Hi, I'm Ralph! <br/><a href="https://github.com/ralphbailey"></a>, <a href="https://www.linkedin.com/in/ralph-bailey/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Azure Security Operations Center (SOC)</b>
+<h2>👨‍💻 Azure Projects</h2>
   - [Azure SOC](https://github.com/ralphbailey/Azure-SOC)
 
 
