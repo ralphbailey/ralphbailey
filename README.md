@@ -1,8 +1,9 @@
 <h1>Hi, I'm Ralph! <br/><a href="https://github.com/ralphbailey"></a> <a href="https://www.linkedin.com/in/ralph-bailey/">Cybersecurity Professional</a></h1>
 
 <h2>My Projects</h2>
+
 - <b> Azure Projects</b>
-  - [Azure SOC](https://github.com/ralphbailey/Azure-SOC)
+  - [Azure SOC](www.github.com/ralphbailey/Azure-SOC)
 
 
 <h2>Connect with me:</h2>
