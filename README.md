@@ -6,6 +6,8 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/ralphbailey/Azure-SOC)
 - <b> Powershell Script</b>
   - [Analyze multiple hashes and send to Virus Total](https://github.com/ralphbailey/Powershell-hashes)
+ - <b> Network Triage with Wireshark</b>
+   - [Qakbot triage]
 
 
 <h2>Connect with me:</h2>
