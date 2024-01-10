@@ -11,8 +11,9 @@
 
 <h2>LinkedIn Articles</h2>
 
-- <b>Internet Explanation</b>
-  - [Explain how the internet works](https://www.linkedin.com/pulse/explain-how-internet-works-ralph-bailey-s9fqe%3FtrackingId=BPin%252FIa3SSKMQS1h4QRJ2A%253D%253D/?trackingId=BPin%2FIa3SSKMQS1h4QRJ2A%3D%3D)
+- <b>Networking</b>
+  - [You type in a URL, what happens?](https://www.linkedin.com/pulse/explain-how-internet-works-ralph-bailey-s9fqe%3FtrackingId=BPin%252FIa3SSKMQS1h4QRJ2A%253D%253D/?trackingId=BPin%2FIa3SSKMQS1h4QRJ2A%3D%3D)
+  - [How to use the OSI model for troubleshooting](https://www.linkedin.com/pulse/using-osi-model-troubleshoot-networks-ralph-bailey-kogzc%3FtrackingId=aEP9zLrAQySqx5k241ngbA%253D%253D/?trackingId=aEP9zLrAQySqx5k241ngbA%3D%3D)
 
 
 <h2>Connect with me:</h2>
