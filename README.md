@@ -7,7 +7,7 @@
 - <b> Powershell Script</b>
   - [Analyze multiple hashes and send to Virus Total](https://github.com/ralphbailey/Powershell-hashes)
  - <b> Network Triage with Wireshark</b>
-   - [Qakbot triage]
+   - [Qakbot triage](https://github.com/ralphbailey/Qakbot-triage)
 
 
 <h2>Connect with me:</h2>
