@@ -8,6 +8,7 @@
   - [Analyze multiple hashes and send to Virus Total](https://github.com/ralphbailey/Powershell-hashes)
  - <b> Network Triage with Wireshark</b>
    - [Qakbot triage](https://github.com/ralphbailey/Qakbot-triage)
+- <b> Malware Triage</b>
 
 <h2>LinkedIn Articles</h2>
 
