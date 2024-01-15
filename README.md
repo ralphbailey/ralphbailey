@@ -9,6 +9,7 @@
  - <b> Network Triage with Wireshark</b>
    - [Qakbot triage](https://github.com/ralphbailey/Qakbot-triage)
 - <b> Malware Triage</b>
+  - [Procsrv triage](https://github.com/ralphbailey/Procsrv-triage)
 
 <h2>LinkedIn Articles</h2>
 
